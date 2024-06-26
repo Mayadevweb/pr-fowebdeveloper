@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+    font-family: 'Fauna One', serif;
+    font-size: 1rem;
+    font-weight: 590;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+a.text-dark:focus,
+a.text-dark:hover {
+    color: #05e8ff !important;
+}
+
+
+.text-dark {
+    color: #000000 !important;
+}
+
+s .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #ffffff;
+    border-radius: .3rem;
+
+}
+
+
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+    z-index: 1;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #040e17;
+}
+
+#fond {
+    background-image: url("../img/sky.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 250px;
+}
+
+
+.fa-film:before {
+    color: white;
+    content: "\f008";
+}
+
+
+
+#fond2 {
+    background-image: url("../img/brain.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 725px;
+}
+
+
+
+#fond3 {
+    background-image: url("../img/blackfond.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 250px;
+}
+
+
+
+#fond4 {
+    background-image: url("../img/blackfond.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 960px;
+}
+
+
+#fond5 {
+
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 350px;
+    background-color: black;
+}
+
+
+
+
+#fond6 {
+
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 100px;
+    background-color: black;
+}
+
+
+
+
+#fond7 {
+
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom:1040px;
+    background-color: black;
+}
+
+
+
+
+
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+
+
+.fa-home:before {
+    content: "\f015";
+    color: white;
+}
+
+
+
+.section1 {
+    background-color: #000 !important;
+}
+
+
+
+
+.text-dark {
+    color: #f3eaea !important;
+}
+
+
+.titres2 {
+    display: flex;
+    padding-bottom: 1000px;
+}
+
+
+.fa-wifi:before {
+    content: "\f1eb";
+    color: white;
+    margin-bottom: 600px;
+}
+
+
+.fas fa-wifi {
+    color: white;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #f9f8f7;
+}
+
+
+
+.fa-microphone-alt:before {
+    content: "\f3c9";
+    color: white;
+}
+
+.fa-book:before {
+    content: "\f02d";
+    color: white;
+}
+
+
+
+.fa-file:before {
+    content: "\f15b";
+    color: white;
+}
+
+
+.fa-couch:before {
+    content: "\f4b8";
+    color: white;
+}
+
+.back{ display: flex;
+background-color: rgba(15, 15, 15, 0.767);
+margin-right: 400px;
+border-color: #1ED4ED;
+ }
+
+
+
+ .green{ 
+color: rgb(27, 235, 27);}
+
+#fond5 {
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 350px;
+    background-color: #000108;
+}
